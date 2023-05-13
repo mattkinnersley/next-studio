@@ -1,0 +1,11 @@
+{
+  "name": "next-studio",
+  "version": "0.0.1",
+  "description": "Next Studio is an all in one CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattkinnersley",
+  "license": "ISC"
+}
